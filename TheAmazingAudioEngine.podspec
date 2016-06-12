@@ -1,11 +1,11 @@
 Pod::Spec.new do |s|
-  s.name         = "TheAmazingAudioEngine2"
-  s.version      = "0.0.2"
+  s.name         = "TheAmazingAudioEngine"
+  s.version      = "2.0.0"
   s.summary      = "Core Audio, Cordially: A sophisticated framework for iOS audio applications, built so you don't have to."
   s.homepage     = "http://theamazingaudioengine.com"
   s.license      = 'zlib'
   s.author       = { "Michael Tyson" => "michael@atastypixel.com" }
-  s.source       = { :git => "https://github.com/TheAmazingAudioEngine/TheAmazingAudioEngine.git", :tag => "0.0.2" }
+  s.source       = { :git => "https://github.com/TheAmazingAudioEngine/TheAmazingAudioEngine.git", :tag => "2.0.0" }
   s.ios.deployment_target = '7.0'
   s.osx.deployment_target = '10.9'
   s.tvos.deployment_target = '9.0'
